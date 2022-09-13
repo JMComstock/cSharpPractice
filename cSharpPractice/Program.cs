@@ -11,3 +11,7 @@ string fullName = "Jason Comstock";
 Console.WriteLine("My full name is " + fullName);
 
 Console.WriteLine("This is an awesome test");
+
+string newTest = "this is another test";
+
+Console.WriteLine(newTest);
