@@ -9,3 +9,5 @@ Console.WriteLine("Hello, my first name is " + firstName + " and my last name is
 string fullName = "Jason Comstock";
 
 Console.WriteLine("My full name is " + fullName);
+
+Console.WriteLine("This is an awesome test");
